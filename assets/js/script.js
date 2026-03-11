@@ -107,7 +107,4 @@ $(document).ready(function () {
     emailSpan.parentElement.insertBefore(emailLink, emailSpan);
     emailSpan.parentElement.removeChild(emailSpan)
   }
-
-	// map initialize
-	$(map);
 });
